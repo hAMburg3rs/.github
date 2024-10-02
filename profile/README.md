@@ -1,22 +1,8 @@
 # 🧔🏼 !BB
 
-Greetings 👋!
+Hello!👋 We are Team !BB, a small, passionate group dedicated to creating open-source games in collaboration with players.  
+Our goal is to eventually release a game where we can discuss and refine patch notes together with our community!
 
-We are a team of Blockchain game developers who have come together to create entertaining games. 😎
+Currently, we’re working on a project called [Savor22b](https://github.com/not-blond-beard/Savor22b), a game where players can explore the world alongside living superfoods, crafted from ingredients grown on their farms.
 
-Although all of our team members are new to game development, we are determined to improve and enjoy the process of game production.
-
-Our ultimate goal is to develop a 🦾 **fully blockchain-based game**.🦿
-
-We manage all of our code as 📂 open source and welcome contributions from others.
-
-We would appreciate your support and encouragement as we continue to grow! 👊🏻
-
-
-# Project
-
-- 이전
-  - ~[Project](https://atralupus.notion.site/318a8686687f425d83431fb060f18050?v=ef619cbdd8d149f6a9ebfecc8c38366c)~
-  - ~[Task board](https://atralupus.notion.site/90ef4532315c434d9305405046117981)~
-- 현재
-  - https://github.com/orgs/not-blond-beard/projects/4
+We are committed to making all our work open source and welcome contributions at any time. Our vision is to create a transparent, decentralized game, and to achieve that, we’re using [libplanet](https://github.com/planetarium/libplanet) to build our own blockchain, where all game data is securely stored. We aim to bring players into the development process and build something truly special together!
